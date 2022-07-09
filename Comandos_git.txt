@@ -10,4 +10,4 @@ mkdir <nombre carpeta>:  nos permite crear una carpeta
 touch <nombre del archivo>:  nos permite crear un archivo
 cat <nombre del archivo>:  me permite visualizar el contenido del un archivo y lo muestra en el terminal
 history:  nos muestra un historial de los comandos que hemos utilizado
-rm <nombre del archivo>:  me permite borrar un archivo
+rm <nombre del archivo>:  me permite borrar un archivo.
